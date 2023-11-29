@@ -53,7 +53,7 @@ const WebonzercomByHtmltodesign: FunctionComponent = () => {
           </div>
           <div className={styles.divbgLightblue100}>
             <div className={styles.views}>Views</div>
-            <div className={styles.heading2}>721K</div>
+            <div className={styles.heading2}>800K</div>
             <div className={styles.div1}>+11.01%</div>
             <img className={styles.svgIcon2} alt="" src="/svg2.svg" />
           </div>
