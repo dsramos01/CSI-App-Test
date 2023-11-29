@@ -9,7 +9,7 @@ const WebonzercomByHtmltodesign: FunctionComponent = () => {
           <img className={styles.buttonSvg} alt="" src="/button--svg.svg" />
           <img className={styles.buttonSvg1} alt="" src="/button--svg1.svg" />
           <div className={styles.navBreadcrumb}>
-            <div className={styles.orderedList}>Dashboard</div>
+            <div className={styles.orderedList}>Dashboards</div>
             <div className={styles.orderedList1}>/</div>
             <div className={styles.orderedList2}>Default</div>
           </div>
@@ -152,7 +152,7 @@ const WebonzercomByHtmltodesign: FunctionComponent = () => {
             <div className={styles.divwFull}>
               <div className={styles.after} />
             </div>
-            <div className={styles.yourtube}>Yourtube</div>
+            <div className={styles.yourtube}>Youtube</div>
             <div className={styles.divrelative}>
               <div className={styles.after} />
             </div>
